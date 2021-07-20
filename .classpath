@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="PY/books and learnning resourses/Advanced/fluent-python-notebooks/09-pythonic-obj/private"/>
+	<classpathentry excluding="factorial/" kind="src" path="PY/books and learnning resourses/Advanced/fluent-python-notebooks/attic/operator"/>
+	<classpathentry kind="src" path="PY/books and learnning resourses/Advanced/fluent-python-notebooks/attic/operator/factorial"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
